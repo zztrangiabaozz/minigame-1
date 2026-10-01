@@ -1,6 +1,6 @@
 # Minigame 1
 ## Devlog
-The Scene is like a movie. In which, the GameObjects are characters, and the Components are their lines, stories, and personalities.
+Write your W1 activity Devlog here.
 
 ## Open-Source Assets
 - [Starter first-person assets](https://assetstore.unity.com/packages/essentials/starter-assets-firstperson-updates-in-new-charactercontroller-pa-196525)
